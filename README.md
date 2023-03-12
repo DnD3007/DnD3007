@@ -58,8 +58,6 @@
 
 [📧 aeolos.developers@gmail.com](mailto:aeolos.developers@gmail.com)
 
-[💼 HyperionDev Protfolio](https://www.hyperiondev.com/portfolio/103071/)
-
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">](https://www.linkedin.com/in/dimitrios-dimitriou-638133146/)
 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github">](https://github.com/Aeolos71)
