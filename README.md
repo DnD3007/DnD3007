@@ -27,7 +27,7 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-#### I'm Dimitris, a full stack developer currently studying at HyperionDev in DfE Web Development Bootcamp.
+#### I'm Dimitris, a full stack web developer.
   
 💻 Computers were always my passion. I remember myself when I was at school trying to find some time to escape to the only one computer room we had so I could stay in front of a blank screen and watching, as I couldn't do anything else (lack of knowledge 😢).
 
