@@ -55,6 +55,8 @@
 <!-- FIND ME -->
 ## Links
 
+[🖇️ My CV](https://github.com/Aeolos71/Aeolos71/blob/main/web-dev-CV.pdf)
+
 [🌍 aeolos.co.uk](https://aeolos.co.uk)
 
 [📧 dimitriou.uk@gmail.com](mailto:dimitriou.uk@gmail.com)
