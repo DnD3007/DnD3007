@@ -33,7 +33,9 @@
 
 👨‍🎓 I did my first computer training in 1990 at Omega College, a Greek college in the heart of Athens. Since then I have had many online and classroom courses. I started with some (now obsolete) languages like Cobol, Pascal and Basic. When the Internet became popular, my interest in creating websites was so strong that I could not resist entering this world.
 
-🌱  My passion for knowledge and development led me to even more courses. Right now as I write I'm on a new courses. I am expanding my knowledge in 
+🌱  My passion for knowledge and development led me to even more courses. Right now as I write I'm improving/expanding my knowledge with the following:
+
+<br>
 
 * <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 * <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -41,13 +43,12 @@
 * <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 * <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 * <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-* <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-* <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-* & more
 
-🇬🇷 I am originally from Greece but I live in 🇬🇧 UK for 18 years. I am British Citizen with full rights to live and work in UK as I am the owner of a British passport.
+<br>
 
-🥅 My goal is to be able to work in some high level company so that I can turn this passion into energy as it is impossible for me to see it as a mandatory job. So if this sounds interesting to you please do not hesitate to contact me.
+🇬🇷 I am originally from Greece but I live in 🇬🇧 UK since 2004. I have British citizenship with a British passport and full rights to live and work in UK.
+
+🥅 My goal is to be able to work as a Web Developer so that I can turn my passion into energy as it is impossible for me to see it as a mandatory job. So if this sounds interesting to you please do not hesitate to contact me.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
