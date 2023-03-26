@@ -33,7 +33,7 @@
 
 👨‍🎓 I did my first computer training in 1990 at Omega College, a Greek college in the heart of Athens. Since then I have had many online and classroom courses. I started with some (now obsolete) languages like Cobol, Pascal and Basic. When the Internet became popular, my interest in creating websites was so strong that I could not resist entering this world.
 
-🌱  My passion for knowledge and development led me to even more courses. Right now as I write I'm on a new course by HyperionDev which is in collaboration with the UK Department for Education. I am expanding my knowledge in 
+🌱  My passion for knowledge and development led me to even more courses. Right now as I write I'm on a new courses. I am expanding my knowledge in 
 
 * <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 * <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
