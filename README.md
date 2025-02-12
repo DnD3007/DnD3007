@@ -57,7 +57,7 @@
 
 [🖇️ My CV](https://github.com/Aeolos71/Aeolos71/blob/main/web-dev-CV.pdf)
 
-[🌍 aeolos.co.uk](https://aeolos.co.uk)
+[🌍 hippocampusweb.com](https://hippocampusweb.com/)
 
 [📧 dimitriou.uk@gmail.com](mailto:dimitriou.uk@gmail.com)
 
