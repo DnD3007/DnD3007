@@ -27,28 +27,27 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-#### I'm Dimitris, a full stack web developer.
+### 👋 Hi, I'm Dimitris – a Potential App Developer
   
-💻 Computers were always my passion. I remember myself when I was at school trying to find some time to escape to the only one computer room we had so I could stay in front of a blank screen and watching, as I couldn't do anything else (lack of knowledge 😢).
+💻 Ever since school, I’ve been drawn to computers. I still remember sneaking into the computer lab just to sit in front of a blank screen—fascinated, even though I didn’t yet know how to use it. That early curiosity has grown into a lifelong passion for technology and learning.
 
-👨‍🎓 I did my first computer training in 1990 at Omega College, a Greek college in the heart of Athens. Since then I have had many online and classroom courses. I started with some (now obsolete) languages like Cobol, Pascal and Basic. When the Internet became popular, my interest in creating websites was so strong that I could not resist entering this world.
+👨‍🎓 My journey began in 1990 with my first computer training at **Omega College in Athens, Greece**. Since then, I’ve completed many classroom and online courses. I started with now-retired languages like **COBOL**, **Pascal**, and **BASIC**, but when the internet became mainstream, I knew web app development was where I belonged.
 
-🌱  My passion for knowledge and development led me to even more courses. Right now as I write I'm improving/expanding my knowledge with the following:
+🎓 I’m currently studying **MSc Computer Science and Data Analysis at Keele University (UK)**, further deepening my understanding of both software development and data-driven technologies.
 
-<br>
+🛠️ My current toolkit includes:
 
-* <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-* <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-* <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-* <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-* <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-* <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+- **Languages & Frameworks:** Python, Flask, Django, HTML5, CSS3, JavaScript
 
-<br>
+- I'm also actively exploring modern tools and best practices in full-stack development.
 
-🇬🇷 I am originally from Greece but I live in 🇬🇧 UK since 2004. I have British citizenship with a British passport and full rights to live and work in UK.
+🌱 I love continuous learning and regularly build projects to sharpen my skills and explore new ideas.
 
-🥅 My goal is to be able to work as a Web Developer so that I can turn my passion into energy as it is impossible for me to see it as a mandatory job. So if this sounds interesting to you please do not hesitate to contact me.
+🌍 Originally from Greece 🇬🇷, I’ve been living in the UK 🇬🇧 since 2004. I hold British citizenship and have full working rights in the UK.
+
+🎯 My goal is to work professionally as a web developer—to turn a lifelong passion into a meaningful career. For me, development isn't just a job; it's something I genuinely enjoy and feel energized by.
+
+📬 Feel free to connect or reach out—I'm always open to collaboration or opportunities!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
